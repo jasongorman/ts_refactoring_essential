@@ -1,5 +1,7 @@
+import "mocha"
 import { strict as assert } from "assert";
 import { X1 } from "../src/X1";
+import {describe, it} from "node:test";
 
 describe("X1", () => {
     it("t1", () => {
