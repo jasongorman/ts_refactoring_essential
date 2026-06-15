@@ -17,6 +17,7 @@
     "typescript": "^6.0.3"
   },
   "devDependencies": {
+    "@types/mocha": "...",
     "@types/node": "^18.19.130"
   }
 }
